@@ -22,28 +22,54 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: PhD Student 
+    company: Headmind Partners AI and Blockchain
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Paris
+    date_start: '2020-12-01'
     date_end: ''
     description: |2-
+      Doctorant de l’université de Rennes 1 en partenariat avec HeadMind Partners dans le cadre de ma thèse sur le sujet de l'étude des arguments au sein des débats politiques
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * IT infrastructure Management
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: NLP Research Intern
+    company: Systemathics
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2020-05-01'
+    date_end: '2020-11-01'
+    description: |2-
+      * Conception of trading algorithm based on Natural Language Processing, ML.NET and Tensorflow
+      * Development of the Systemathics SDK in C#
+      * Construction of end-to-end strategies : Data mining, Execution Strategies and Backtesting
+
+  - title: Technical Consultant Junior
+    company: IBM
+    company_url: ''
+    company_logo: org-x
+    location: Paris
+    date_start: '2020-05-01'
+    date_end: '2020-11-01'
+    description: |2-
+      I worked as Blockchain Technical Consultant & Architect :
+        * Studies on consensus algorithms and Blockchain architectures
+        * Financial Analysis of a Blockchain ecosystem
+        * Thesis on Financial Model for new Energy Market (EUM optimization)
+
+  - title: Web Developer Intern
+    company: Limpidius
+    company_url: ''
+    company_logo: 
+    location: Lille
+    date_start: '2020-05-01'
+    date_end: '2020-11-01'
+    description: |2-
+      * développement du site web HTML CSS
+      * développement d'une application web : Javascript, AngularJS 
+
 
 design:
   columns: '2'
