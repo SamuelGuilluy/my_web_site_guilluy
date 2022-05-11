@@ -27,14 +27,6 @@ content:
   # Contact details (edit or remove options as required)
   email: samuel.guilluy@univ-rennes1.fr
   phone: '0612401461'
-  address:
-    street: 450 Serra Mall
-    city: Nogent-sur-Marne
-    region: CA
-    postcode: '94130'
-    country: France
-    country_code: FR
-
 design:
   columns: '2'
 ---

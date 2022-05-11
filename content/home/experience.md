@@ -38,7 +38,7 @@ experience:
     company: Systemathics
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Paris
     date_start: '2020-05-01'
     date_end: '2020-11-01'
     description: |2-
@@ -51,8 +51,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Paris
-    date_start: '2020-05-01'
-    date_end: '2020-11-01'
+    date_start: '2017-09-01'
+    date_end: '2019-09-01'
     description: |2-
       I worked as Blockchain Technical Consultant & Architect :
         * Studies on consensus algorithms and Blockchain architectures
@@ -64,8 +64,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Lille
-    date_start: '2020-05-01'
-    date_end: '2020-11-01'
+    date_start: '2017-07-01'
+    date_end: '2017-06-01'
     description: |2-
       * développement du site web HTML CSS
       * développement d'une application web : Javascript, AngularJS 
