@@ -1,5 +1,5 @@
 ---
-title: SEME : Semaine Mathématiques en Entreprise
+title: SEME - Semaine Mathématiques en Entreprise
 summary: Projet d'optimisation boite noire pour l'IRT Saint-Exupéri.
 tags:
   - Optimization
