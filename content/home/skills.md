@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Data science
+  - description: Data science 
     icon: python
     icon_pack: fab
     name: python
@@ -24,7 +24,7 @@ feature:
   - description: Full Stack Development
     icon: react
     icon_pack: fab
-    name: reactJS
+    name: react & django web app
   
   - description: Industrialisation of application
     icon: docker
@@ -33,7 +33,7 @@ feature:
 
   - description: Cloud Services technologies
     icon: windows
-    icon_pack: fas
+    icon_pack: fab
     name: Azure
 
 # Uncomment to use emoji icons.
