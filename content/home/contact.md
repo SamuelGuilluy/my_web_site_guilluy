@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: samuel.guilluy@univ-rennes1.fr
+  phone: 0612401461
   address:
     street: 450 Serra Mall
     city: Stanford
@@ -39,7 +39,7 @@ content:
     longitude: '-122.1697'
   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   office_hours:
-    - 'Monday 10:00 to 13:00'
+    - 'Monday 9:00 to 18:00'
     - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
   contact_links:
