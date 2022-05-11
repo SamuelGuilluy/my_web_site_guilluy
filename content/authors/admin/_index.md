@@ -55,8 +55,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/samuel-guilluy/
-  - icon: fab
-    icon_pack: file
+  - icon: file
+    icon_pack: fab
     link: uploads/resume.pdf
 
 # Link to a PDF of your resume/CV.
