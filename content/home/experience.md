@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: PhD Student 
     company: Headmind Partners AI and Blockchain
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'https://www.headmind.com/fr/'
+    company_logo: HeadMind_Partners_Logo
     location: Paris
     date_start: '2020-12-01'
     date_end: ''
@@ -37,8 +37,8 @@ experience:
 
   - title: NLP Research Intern
     company: Systemathics
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://www.systemathics.com/'
+    company_logo: systemathics
     location: Paris
     date_start: '2020-05-01'
     date_end: '2020-11-01'
@@ -49,8 +49,8 @@ experience:
 
   - title: Technical Consultant Junior
     company: IBM
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://www.ibm.com/fr-fr'
+    company_logo: ibm
     location: Paris
     date_start: '2017-09-01'
     date_end: '2019-09-01'
@@ -62,8 +62,8 @@ experience:
 
   - title: Web Developer Intern
     company: Limpidius
-    company_url: ''
-    company_logo: 
+    company_url: 'https://limpidius.com/'
+    company_logo: limpidius
     location: Lille
     date_start: '2017-07-01'
     date_end: '2017-06-01'
