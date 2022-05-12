@@ -29,6 +29,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+https://objenious.com/
 
 Mise en place d'un système connecté pour gérer l'utilisation et la réservation de services collectifs
 Modélisation du processus, Paramétrage de l'objet connecté sur ARDUINO, Programmation du site web (PHP, CSS) à l'aide d'une BDD MySQL

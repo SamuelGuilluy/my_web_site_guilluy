@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Innovation Projects
+title: Research Projects
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: research_project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -31,6 +31,8 @@ content:
       tag: Deep Learning
     - name: Optimization
       tag: Optimization
+    - name: Quantitative Finance
+      tag: Finance
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

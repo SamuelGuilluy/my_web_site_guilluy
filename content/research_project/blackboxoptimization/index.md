@@ -29,6 +29,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+Lien vers le streamlit de présentation du projet : https://share.streamlit.io/samuelguilluy/blackboxseme/main/tableau_streamlit.py
+
 Caractérisation de problèmes d’optimisation définis par des fonction de type « boites noires » . 
 
 En aéronautique, l’optimisation de la conception d’un avion fait intervenir plusieurs sous- problèmes de natures différentes : optimisation de l’aérodynamique, optimisation de la structure, etc. (On parle d’optimisation multidisciplinaire.) Il est bien sûr essentiel de choisir pour chaque sous- problème un algorithme d’optimisation performant.

@@ -26,7 +26,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: samuel.guilluy@univ-rennes1.fr
-  phone: '0612401461'
 design:
   columns: '2'
 ---

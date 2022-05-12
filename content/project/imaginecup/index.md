@@ -29,4 +29,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+https://imaginecup.microsoft.com/fr-fr/Events?id=0
+
 Imagine Cup is a global competition that empowers the next generation of computer science students to team up and use their creativity, passion and knowledge of technology to create applications that shape how we live, work and play. Every year tens of thousands of students from across the globe compete for cash, travel and prizes and for the honor of taking home the Imagine Cup!

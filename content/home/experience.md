@@ -30,9 +30,10 @@ experience:
     date_start: '2020-12-01'
     date_end: ''
     description: |2-
-      Doctorant de l’université de Rennes 1 en partenariat avec HeadMind Partners dans le cadre de ma thèse sur le sujet de l'étude des arguments au sein des débats politiques
+      PhD student at the University of Rennes 1 in partnership with HeadMind Partners for my thesis on the subject of the study of arguments in political debates
         Responsibilities include:
-        * IT infrastructure Management
+        * Projects with French Medias about political debates analysis
+        * Computer Server Management
 
   - title: NLP Research Intern
     company: Systemathics
@@ -67,8 +68,8 @@ experience:
     date_start: '2017-07-01'
     date_end: '2017-06-01'
     description: |2-
-      * développement du site web HTML CSS
-      * développement d'une application web : Javascript, AngularJS 
+      * Contribution to the development of a web site in HTML CSS
+      * Contribution to the development of a web app in Javascript, AngularJS 
 
 
 design:
