@@ -19,22 +19,22 @@ feature:
   - description: Data science 
     icon: python
     icon_pack: fab
-    name: python
+    name: Python
 
   - description: Full Stack Development
     icon: react
     icon_pack: fab
-    name: react & django web app
+    name: Web App in React & Django and Mobile App in Flutter
   
   - description: Industrialisation of application
     icon: docker
     icon_pack: fab
-    name: docker
+    name: git, docker, wandb, ML Flow, Grafana
 
   - description: Cloud Services technologies
     icon: windows
     icon_pack: fab
-    name: Azure
+    name: Azure, GCP
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

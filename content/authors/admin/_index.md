@@ -21,6 +21,8 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Argument Mining
+  - Machine Learning Optimization
+  - Tech for Good
 
 # Education to show in About widget
 education:

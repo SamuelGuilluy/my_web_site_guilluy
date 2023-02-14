@@ -31,6 +31,8 @@ content:
       tag: Deep Learning
     - name: IOT
       tag: IOT
+    - name: Startup
+      tag: Startup
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
